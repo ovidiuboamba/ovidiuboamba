@@ -3,7 +3,7 @@
   
 <br> 
 <h2> About me </h2>
-<div> <img src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f9nflfngxluosshu4mj253im0zfm3w799y4bcm5m&rid=giphy.gif&ct=g" align = "right"> </div>
+<div> <img src = "https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif" align = "right" width = "550" > </div>
 <p align = "left">
   <ul>
     <li> 🎓 I study at the Technical University of Cluj-Napoca </li>
