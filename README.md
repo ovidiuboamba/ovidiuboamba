@@ -1,4 +1,4 @@
-<h1> <img src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f9nflfngxluosshu4mj253im0zfm3w799y4bcm5m&rid=giphy.gif&ct=g"> </h1>
+<h1 align = "center"> <img src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f9nflfngxluosshu4mj253im0zfm3w799y4bcm5m&rid=giphy.gif&ct=g"> </h1>
 
 
 
