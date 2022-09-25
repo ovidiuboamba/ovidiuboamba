@@ -19,11 +19,11 @@
       src="https://yt3.ggpht.com/9XmuxL_LL7CxAOOlbBgTnJIo2uHpoLKHhWzlPt7O49ULQmvBSJlxk1RpX3pJ8jkRBkD6p9BIRg=s900-c-k-c0x00ffffff-no-rj"
       height="30" width="30" /></a>
   
-   <a href="https://www.linkedin.com/in/ovidiu-vasile-boamba/"><img align="left"
+   <a href="https://www.instagram.com/ovi.boamba/"><img align="left"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png"
       height="30" width="30" /></a>
   
-  <a href="https://www.linkedin.com/in/ovidiu-vasile-boamba/"><img align="left"
+  <a href="https://www.facebook.com/ovidiu.boamba/"><img align="left"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Facebook_F_icon.svg/640px-Facebook_F_icon.svg.png"
       height="30" width="30" /></a>
   </p>
