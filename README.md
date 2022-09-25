@@ -1,5 +1,5 @@
 <h1 align = "center"> Hello👋, I am Ovidiu Boamba and I am a </h1>
-<div align = "center"> <img src="https://en.bloggif.com/tmp/c43b9db8d96fda4f791a17cb92d1cc6a/text.gif?1664112271"> </div>
+<div align = "center"> <img src = "https://s5.gifyu.com/images/text-10906fa633c40eaa0.gif"> </div>
   
 <br> 
 <h2> About me </h2>
