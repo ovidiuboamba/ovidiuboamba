@@ -1,9 +1,9 @@
 <h1 align = "center"> Hello👋, I am Ovidiu Boamba and I am a </h1>
-<div align = "center"> <img src = "https://s5.gifyu.com/images/text-10906fa633c40eaa0.gif"> </div>
+<div align = "center"> <img src = "https://s5.gifyu.com/images/text-10906fa633c40eaa0.gif" width = "65%"> </div>
   
 <br> 
 <h2> About me </h2>
-<div> <img src = "https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif" align = "right" width = "550" > </div>
+<div> <img src = "https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif" align = "right" width = "55%" > </div>
 <p align = "left">
   <ul>
     <li> 🎓 I study at the Technical University of Cluj-Napoca </li>
