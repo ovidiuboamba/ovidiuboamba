@@ -37,5 +37,9 @@
     <img align = "left" src = "https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" width = "35" height = "35">
      <img align = "left" src = "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
       width = "60" height = "30">
+  <img align = "left" src = "https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"
+      width = "80" height = "30">
+  <img align = "left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png"
+      width = "90" height = "30">
     
  
