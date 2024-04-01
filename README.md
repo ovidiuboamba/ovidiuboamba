@@ -1,5 +1,5 @@
 <h1 align = "center"> Hello👋, I am Ovidiu Boamba and I am a </h1>
-<div align = "center"> <img src = "https://s5.gifyu.com/images/text-10906fa633c40eaa0.gif" width = "65%"> </div>
+<div align = "center"> Computer Science Student </div>
   
 <br> 
 <h2> About me </h2>
