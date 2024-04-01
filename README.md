@@ -1,5 +1,5 @@
 <h1 align = "center"> Hello👋, I am Ovidiu Boamba and I am a </h1>
-<div align = "center"> Computer Science Student </div>
+<div align = "center" style="font-family: Comic Sans MS, cursive; font-size: 30;"> Computer Science Student </div>
   
 <br> 
 <h2> About me </h2>
